@@ -138,6 +138,19 @@ The model returns:
 
 ---
 
+## ⚙️ Step-by-Step Guide to Run the Project
+
+### Step Guide To Do the Task 
+Download or clone the project from GitHub:
+```bash
+git clone https://github.com/yourusername/insurance-renewal-prediction.git
+cd insurance-renewal-prediction
+pip install -r requirements.txt
+
+
+
+
+
 ##  Conclusion
 
 This project demonstrates how machine learning — especially **XGBoost** — can effectively predict insurance renewal behavior using structured customer data. Through a comprehensive pipeline that includes feature engineering, model training, evaluation, and prediction, we achieved high accuracy and actionable insights.
